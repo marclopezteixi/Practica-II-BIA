@@ -1,2 +1,2 @@
 # Practica-II-BIA
-Practica II Business Intelligence &amp; Analytics - Tiempo de compra
+Practica II Business Intelligence - Tiempo de compra
